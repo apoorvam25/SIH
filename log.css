@@ -1,0 +1,46 @@
+body{
+    height: 100%;
+    /* //background-position: center; */
+    background-size: cover;
+}
+
+.d1{
+    /* display: inline-block !important; */
+ text-align: center;
+ background-color: #1b1b1b;
+ width: 30%;
+ height: 70%;
+ position: absolute;
+ top: 20%;
+ left: 35%; 
+ /* border-style: groove;
+ border-color: #f3e5f5; */
+ 
+}
+
+  .fa-circle{
+      color: white;
+  }          */
+
+   .fa-flag{
+      color: black;
+  }
+
+  h2{
+      font-family: 'Overlock SC';
+      font-size: 45px !important;
+      color: #f3e5f5;
+  }
+
+  input{
+    position: relative;
+    display: block;
+    margin : 0 auto !important;
+      width: 350px !important;
+  }
+
+  label{
+      font-size: 20px;
+      font-family: 'ABeeZee';
+      color: #f3e5f5;
+  }
